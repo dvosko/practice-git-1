@@ -1,3 +1,4 @@
 Myfirst line project
 London is the capital of Great Britain
 Moscow is Capital of Russia
+Paris is the capital of France
